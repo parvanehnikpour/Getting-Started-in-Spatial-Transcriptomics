@@ -8,7 +8,7 @@
 
 # Best Papers to Start With:
 
-<h3>Here are some highly recommended review papers for getting started in spatial transcriptomics:</h3>
+<h3>Here are some highly recommended papers for getting started in spatial transcriptomics:</h3>
 
 I myself started my journey by reading this paper:
 - **Moses, L., & Pachter, L. (2022). "Museum of spatial transcriptomics" _Nature Methods_, 19, 534–546.**  
