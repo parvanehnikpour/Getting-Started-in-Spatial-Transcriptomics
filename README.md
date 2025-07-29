@@ -4,7 +4,7 @@
 -  **Single-cell** RNA-seq is like a bowl of mixed berries: each cell is distinct and individually measured.
 -   **Spatial** transcriptomics is like observing berries on the bush: you not only see each cell but also where it is located in the tissue.
 
-<img src="BulkvsSinglevsSpatial.jpg" alt="BulkvsSinglevsSpatial" width="400"><br><br>
+<img src="Images/BulkvsSinglevsSpatial.jpg" alt="BulkvsSinglevsSpatial" width="400"><br><br>
 
 # Best Papers to Start With:
 
@@ -14,7 +14,7 @@ I myself started my journey by reading this paper:
 - **Moses, L., & Pachter, L. (2022). "Museum of spatial transcriptomics" _Nature Methods_, 19, 534–546.**  
     [Link](https://www.nature.com/articles/s41592-022-01409-2)
 
-<img src="Timeline_of_events.webp" alt="Timeline of Events" width="700">
+<img src="Images/Timeline_of_events.webp" alt="Timeline of Events" width="700">
 
 **Fig 1.** Timelines of major events (From "Museum of spatial transcriptomics" paper)
 
@@ -23,7 +23,7 @@ This review paper also includes a book-length supplement, which is very helpful 
 - **Moses, L., & Pachter, L. "A book-length supplement to the paper: Museum of spatial transcriptomics"** 
     [Link](https://pachterlab.github.io/LP_2021/)
 
-<img src="analysis-map-1.png" alt="Map of papers" width="700">  
+<img src="Images/analysis-map-1.png" alt="Map of papers" width="700">  
 
 **Fig 2.** Map of where first authors of current era and prequel data analysis papers were located as of publication (From "A book-length supplement to the paper: Museum of spatial transcriptomics", Chapter 7)
 <br><br>
@@ -45,7 +45,7 @@ And now, it’s time to read the landmark paper by Ståhl P. et al., published i
 - **Ståhl PL, Salmén F, Vickovic S, Lundmark A, Navarro JF, et al (2016). "Visualization and analysis of gene expression in tissue sections by spatial transcriptomics" _Science_, 353, 78-82.**  
     [Link](https://www.science.org/doi/10.1126/science.aaf2403?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
-<img src="Fig2_A-B-Spatially resolved gene expression.jpeg" alt="Stahl_paper" width="700">  
+<img src="Images/Fig2_A-B-Spatially resolved gene expression.jpeg" alt="Stahl_paper" width="700">  
 
 **Fig 3.** Spatially resolved gene expression (From Ståhl P, et al 2016 paper)
 <br><br>
@@ -57,7 +57,7 @@ Another fruitful review paper, I would recommend is this:
 
 Apart from introducing different classes of spatial methods, they furthermore introduce bioinformatic methods for analysing spatial transcriptomic data, including pre-processing, integration with existing scRNA-seq data, and inference of cell-cell interactions.
 
-<img src="Typical-structure-of-spatial-transcriptomics-analysis.jpg" alt="Williams_paper" width="700">  
+<img src="Images/Typical-structure-of-spatial-transcriptomics-analysis.jpg" alt="Williams_paper" width="700">  
 
 **Fig 4.** Typical structure of spatial transcriptomics analysis (From Williams CG, et al 2022 paper)
 <br><br>
